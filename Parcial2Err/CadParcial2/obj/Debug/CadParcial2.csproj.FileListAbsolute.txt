@@ -1,0 +1,48 @@
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CadParcial2\bin\Debug\CadParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CadParcial2\bin\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CadParcial2\bin\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CadParcial2\bin\Debug\EntityFramework.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CadParcial2\bin\Debug\EntityFramework.SqlServer.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CadParcial2\bin\Debug\EntityFramework.xml
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CadParcial2\bin\Debug\EntityFramework.SqlServer.xml
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CadParcial2\obj\Debug\CadParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CadParcial2\obj\Debug\CadParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CadParcial2\obj\Debug\CadParcial2.csproj.CopyComplete
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CadParcial2\obj\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CadParcial2\obj\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CadParcial2\bin\Debug\CadParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CadParcial2\bin\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CadParcial2\bin\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CadParcial2\bin\Debug\EntityFramework.dll
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CadParcial2\bin\Debug\EntityFramework.SqlServer.dll
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CadParcial2\bin\Debug\EntityFramework.xml
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CadParcial2\bin\Debug\EntityFramework.SqlServer.xml
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CadParcial2\obj\Debug\CadParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CadParcial2\obj\Debug\CadParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CadParcial2\obj\Debug\CadParcial2.csproj.CopyComplete
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CadParcial2\obj\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CadParcial2\obj\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CadParcial2\bin\Debug\CadParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CadParcial2\bin\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CadParcial2\bin\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CadParcial2\bin\Debug\EntityFramework.dll
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CadParcial2\bin\Debug\EntityFramework.SqlServer.dll
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CadParcial2\bin\Debug\EntityFramework.xml
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CadParcial2\bin\Debug\EntityFramework.SqlServer.xml
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CadParcial2\obj\Debug\CadParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CadParcial2\obj\Debug\CadParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CadParcial2\obj\Debug\CadParcial2.csproj.CopyComplete
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CadParcial2\obj\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CadParcial2\obj\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err\CadParcial2\bin\Debug\CadParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err\CadParcial2\bin\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err\CadParcial2\bin\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err\CadParcial2\bin\Debug\EntityFramework.dll
+E:\PARCIAL2ERR\Parcial2Err\CadParcial2\bin\Debug\EntityFramework.SqlServer.dll
+E:\PARCIAL2ERR\Parcial2Err\CadParcial2\bin\Debug\EntityFramework.xml
+E:\PARCIAL2ERR\Parcial2Err\CadParcial2\bin\Debug\EntityFramework.SqlServer.xml
+E:\PARCIAL2ERR\Parcial2Err\CadParcial2\obj\Debug\CadParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err\CadParcial2\obj\Debug\CadParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err\CadParcial2\obj\Debug\CadParcial2.csproj.CopyComplete
+E:\PARCIAL2ERR\Parcial2Err\CadParcial2\obj\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err\CadParcial2\obj\Debug\CadParcial2.pdb

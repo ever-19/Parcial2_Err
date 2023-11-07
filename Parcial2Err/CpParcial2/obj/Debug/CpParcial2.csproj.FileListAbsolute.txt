@@ -1,0 +1,214 @@
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\bin\Debug\CpParcial2.exe.config
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\bin\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\bin\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\obj\Debug\CpParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\obj\Debug\CpParcial2.Properties.Resources.resources
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\obj\Debug\CpParcial2.csproj.GenerateResource.cache
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\obj\Debug\CpParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\obj\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\obj\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion\CpParcial2\bin\Debug\CpParcial2.exe.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion\CpParcial2\bin\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion\CpParcial2\bin\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion\CpParcial2\obj\Debug\CpParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion\CpParcial2\obj\Debug\CpParcial2.FrmSerie.resources
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion\CpParcial2\obj\Debug\CpParcial2.Properties.Resources.resources
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion\CpParcial2\obj\Debug\CpParcial2.csproj.GenerateResource.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion\CpParcial2\obj\Debug\CpParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion\CpParcial2\obj\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion\CpParcial2\obj\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\obj\Debug\CpParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\obj\Debug\CpParcial2.FrmSerie.resources
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\obj\Debug\CpParcial2.Properties.Resources.resources
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\obj\Debug\CpParcial2.csproj.GenerateResource.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\obj\Debug\CpParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\obj\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\obj\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\bin\Debug\CpParcial2.exe.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\bin\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\bin\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\bin\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\bin\Debug\ClnParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\bin\Debug\EntityFramework.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\bin\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\bin\Debug\CadParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\bin\Debug\ClnParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\bin\Debug\ClnParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\bin\Debug\EntityFramework.xml
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2\CpParcial2\obj\Debug\CpParcial2.csproj.CopyComplete
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\bin\Debug\CpParcial2.exe.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\bin\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\bin\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\bin\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\bin\Debug\ClnParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\bin\Debug\EntityFramework.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\bin\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\bin\Debug\CadParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\bin\Debug\ClnParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\bin\Debug\ClnParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\bin\Debug\EntityFramework.xml
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\obj\Debug\CpParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\obj\Debug\CpParcial2.FrmSerie.resources
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\obj\Debug\CpParcial2.Properties.Resources.resources
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\obj\Debug\CpParcial2.csproj.GenerateResource.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\obj\Debug\CpParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\obj\Debug\CpParcial2.csproj.CopyComplete
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\obj\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos\CpParcial2\obj\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\obj\Debug\CpParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\obj\Debug\CpParcial2.FrmSerie.resources
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\obj\Debug\CpParcial2.Properties.Resources.resources
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\obj\Debug\CpParcial2.csproj.GenerateResource.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\obj\Debug\CpParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\obj\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\obj\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\bin\Debug\CpParcial2.exe.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\bin\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\bin\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\bin\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\bin\Debug\ClnParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\bin\Debug\EntityFramework.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\bin\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\bin\Debug\CadParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\bin\Debug\ClnParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\bin\Debug\ClnParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\bin\Debug\EntityFramework.xml
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia\CpParcial2\obj\Debug\CpParcial2.csproj.CopyComplete
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\bin\Debug\CpParcial2.exe.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\bin\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\bin\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\bin\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\bin\Debug\ClnParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\bin\Debug\EntityFramework.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\bin\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\bin\Debug\CadParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\bin\Debug\ClnParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\bin\Debug\ClnParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\bin\Debug\EntityFramework.xml
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\obj\Debug\CpParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\obj\Debug\CpParcial2.FrmSerie.resources
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\obj\Debug\CpParcial2.Properties.Resources.resources
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\obj\Debug\CpParcial2.csproj.GenerateResource.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\obj\Debug\CpParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\obj\Debug\CpParcial2.csproj.CopyComplete
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\obj\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\obj\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\bin\Debug\EntityFramework.SqlServer.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia\CpParcial2\bin\Debug\EntityFramework.SqlServer.xml
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\bin\Debug\CpParcial2.exe.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\bin\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\bin\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\bin\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\bin\Debug\ClnParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\bin\Debug\EntityFramework.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\bin\Debug\EntityFramework.SqlServer.dll
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\bin\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\bin\Debug\CadParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\bin\Debug\ClnParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\bin\Debug\ClnParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\bin\Debug\EntityFramework.xml
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\bin\Debug\EntityFramework.SqlServer.xml
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\obj\Debug\CpParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\obj\Debug\CpParcial2.FrmSerie.resources
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\obj\Debug\CpParcial2.Properties.Resources.resources
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\obj\Debug\CpParcial2.csproj.GenerateResource.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\obj\Debug\CpParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\obj\Debug\CpParcial2.csproj.CopyComplete
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\obj\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - capa de presentacion - mejorando2 - probando con otra base de datos - copia - copia - copia\CpParcial2\obj\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\bin\Debug\CpParcial2.exe.config
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\bin\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\bin\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\bin\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\bin\Debug\ClnParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\bin\Debug\EntityFramework.dll
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\bin\Debug\EntityFramework.SqlServer.dll
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\bin\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\bin\Debug\CadParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\bin\Debug\ClnParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\bin\Debug\ClnParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\bin\Debug\EntityFramework.xml
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\bin\Debug\EntityFramework.SqlServer.xml
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\obj\Debug\CpParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\obj\Debug\CpParcial2.FrmSerie.resources
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\obj\Debug\CpParcial2.Properties.Resources.resources
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\obj\Debug\CpParcial2.csproj.GenerateResource.cache
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\obj\Debug\CpParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\obj\Debug\CpParcial2.csproj.CopyComplete
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\obj\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia\CpParcial2\obj\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\bin\Debug\CpParcial2.exe.config
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\bin\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\bin\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\bin\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\bin\Debug\ClnParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\bin\Debug\EntityFramework.dll
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\bin\Debug\EntityFramework.SqlServer.dll
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\bin\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\bin\Debug\CadParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\bin\Debug\ClnParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\bin\Debug\ClnParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\bin\Debug\EntityFramework.xml
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\bin\Debug\EntityFramework.SqlServer.xml
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\obj\Debug\CpParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\obj\Debug\CpParcial2.FrmSerie.resources
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\obj\Debug\CpParcial2.Properties.Resources.resources
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\obj\Debug\CpParcial2.csproj.GenerateResource.cache
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\obj\Debug\CpParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\obj\Debug\CpParcial2.csproj.CopyComplete
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\obj\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err Oficial - copia - copia\CpParcial2\obj\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\bin\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\bin\Debug\ClnParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\bin\Debug\EntityFramework.dll
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\bin\Debug\EntityFramework.SqlServer.dll
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\bin\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\bin\Debug\CadParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\bin\Debug\ClnParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\bin\Debug\ClnParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\bin\Debug\EntityFramework.xml
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\bin\Debug\EntityFramework.SqlServer.xml
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\obj\Debug\CpParcial2.FrmSerie.resources
+E:\PARCIAL2ERR\Parcial2Err\CpParcial2\obj\Debug\CpParcial2.csproj.CopyComplete
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\bin\Debug\CpParcial2.exe.config
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\bin\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\bin\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\bin\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\bin\Debug\ClnParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\bin\Debug\EntityFramework.dll
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\bin\Debug\EntityFramework.SqlServer.dll
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\bin\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\bin\Debug\CadParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\bin\Debug\ClnParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\bin\Debug\ClnParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\bin\Debug\EntityFramework.xml
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\bin\Debug\EntityFramework.SqlServer.xml
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\obj\Debug\CpParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\obj\Debug\CpParcial2.FrmSerie.resources
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\obj\Debug\CpParcial2.Properties.Resources.resources
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\obj\Debug\CpParcial2.csproj.GenerateResource.cache
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\obj\Debug\CpParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\obj\Debug\CpParcial2.csproj.CopyComplete
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\obj\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - copia\CpParcial2\obj\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\bin\Debug\CpParcial2.exe.config
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\bin\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\bin\Debug\CpParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\bin\Debug\CadParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\bin\Debug\ClnParcial2.dll
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\bin\Debug\EntityFramework.dll
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\bin\Debug\EntityFramework.SqlServer.dll
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\bin\Debug\CadParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\bin\Debug\CadParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\bin\Debug\ClnParcial2.pdb
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\bin\Debug\ClnParcial2.dll.config
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\bin\Debug\EntityFramework.xml
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\bin\Debug\EntityFramework.SqlServer.xml
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\obj\Debug\CpParcial2.csproj.AssemblyReference.cache
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\obj\Debug\CpParcial2.FrmSerie.resources
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\obj\Debug\CpParcial2.Properties.Resources.resources
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\obj\Debug\CpParcial2.csproj.GenerateResource.cache
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\obj\Debug\CpParcial2.csproj.CoreCompileInputs.cache
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\obj\Debug\CpParcial2.csproj.CopyComplete
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\obj\Debug\CpParcial2.exe
+E:\PARCIAL2ERR\Parcial2Err - copia biblioteca\CpParcial2\obj\Debug\CpParcial2.pdb
